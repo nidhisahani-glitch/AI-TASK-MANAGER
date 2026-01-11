@@ -2,7 +2,7 @@
 
 This repository contains an **Agentic AI System** designed to manage tasks through natural language. It interprets user intent using an LLM, maps it to structured actions, and maintains a persistent state with an audit trail in a PostgreSQL database.
 
-**Walkthrough Video:** [Link to your Unlisted YouTube/Vimeo Video]
+**Walkthrough Video:** https://www.youtube.com/watch?v=EMUBNdEmMQ8
 
 ---
 
@@ -101,5 +101,6 @@ OPENAI_API_BASE=http://your-ip:1234/v1
 4. **Run Application:**
 ```bash
 python -m streamlit run main.py
+
 
 ```
