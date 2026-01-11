@@ -1,0 +1,15 @@
+# Web Interface
+streamlit==1.31.0
+
+# Database & ORM
+sqlalchemy==2.0.25
+psycopg2-binary==2.9.9
+pandas==2.2.0
+
+# AI & LLM Logic
+openai==1.12.0
+pydantic==2.6.1
+
+# Environment & Utilities
+python-dotenv==1.0.1
+typing-extensions==4.9.0
